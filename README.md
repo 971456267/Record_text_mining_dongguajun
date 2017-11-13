@@ -11,12 +11,14 @@
 文本挖掘的应用场景：搜索引擎，信息自动分类，自动摘要，信息过滤，信息自动抽取，自动问答系统，机器翻译
 
 一些有用的大规模概念图谱
+
 亚洲微软研究院probase:https://concept.research.microsoft.com/
 哈尔滨工业大学大词林:http://www.bigcilin.com/
 复旦大学只是工厂实验室CN-Probase:http://kw.fudan.edu.cn/cnprobase/search/
 德国马普研究所Yago:https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/
 
 Database:
+
 wordnet:http://wordnet.princeton.edu/
 20Newsgrous:http://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.data.html
 REC1:http://www.ai.mit.edu/projects/jmlr/papers/volume5/lewis04a/lyrl2004_rcv1v2_README.html
