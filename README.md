@@ -9,3 +9,14 @@
 常用的文本挖掘技术:文本结构分析，文本摘要，文本分类，文本聚类，文本关联分析，分布分析和趋势预测等，其中文本分类是其中意向关键的挖掘任务也是文本信息处理领域用得最多的一种技术。
 
 文本挖掘的应用场景：搜索引擎，信息自动分类，自动摘要，信息过滤，信息自动抽取，自动问答系统，机器翻译
+
+一些有用的大规模概念图谱
+亚洲微软研究院probase:https://concept.research.microsoft.com/
+哈尔滨工业大学大词林:http://www.bigcilin.com/
+复旦大学只是工厂实验室CN-Probase:http://kw.fudan.edu.cn/cnprobase/search/
+德国马普研究所Yago:https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/
+
+Database:
+wordnet:http://wordnet.princeton.edu/
+20Newsgrous:http://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.data.html
+REC1:http://www.ai.mit.edu/projects/jmlr/papers/volume5/lewis04a/lyrl2004_rcv1v2_README.html
